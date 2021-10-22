@@ -1,5 +1,4 @@
-### 😊 Olá, eu sou o Lucas da Silva, bem vindo ao meu perfil!
-### 🔥 Tenho 20 anos<br>
+### 😊 Olá, eu sou o Lucas da Silva!
 ### 💡 Investidor de criptomoedas e aprendendo a programar 
 
 
