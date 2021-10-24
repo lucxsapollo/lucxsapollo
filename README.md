@@ -25,5 +25,12 @@
   <div> 
 <a href="https://instagram.com/lucxsapollo" target="_blank"><img align="center" img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://t.me/lucxsapollo" target="_blank"><img align="center" img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+    </div><br>
+    
+  <div>   
+    <h1>Total de Visitas no perfil:<h1>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/lucxsapollo/count.svg" />
+ </p>
     </div>
 
