@@ -1,5 +1,5 @@
-### 😊 Olá, eu sou o Lucas da Silva!
-### 💡 Investidor de criptomoedas e aprendendo a programar 
+<h1>😊 Olá, eu sou o Lucas da Silva!</h1>
+<h2>💡 Investidor de criptomoedas e aprendendo a programar</h2> 
 
 
 <div align="center">
@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxsapollo&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
-  ### Estou aprendendo:
+  <h2>Estou aprendendo:</h2>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,11 +16,10 @@
   <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/emojis/809918563435544576.png?size=96"
 
- 
-</div>
+ </div>
  
     
-
+  <h2>Minhas redes sociais</h2>
     
   <div> 
 <a href="https://instagram.com/lucxsapollo" target="_blank"><img align="center" img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
