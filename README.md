@@ -1,7 +1,6 @@
-<h1>Bem vindo ao meu perfil!<br> 
-  Sou Lucas da Silva e todas as redes sociais são lucxsapollo.</h1>
-<div>-Investidor de criptomoedas e aprendendo a programar</div><br>
 
+
+<h2>Welcome to my profile</h2>
 
 <div align="center">
   <a href="https://github.com/lucxsapollo">
@@ -9,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxsapollo&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
-  <h2>Aprendendo:</h2>
+  <h3>I am learning:</h3>
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,7 +19,7 @@
  </div>
  
     
-  <h2>Minhas redes sociais:</h2>
+  <h3>Contact me:</h3>
     
   <div> 
 <a href="https://instagram.com/lucxsapollo" target="_blank"><img align="center" img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,7 +27,7 @@
     </div><br>
     
   <div>   
-    <h2>Total de Visitas no perfil:<h2>
+    <h3>Visits on my profile:</h3>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/lucxsapollo/count.svg" />
  </p>
