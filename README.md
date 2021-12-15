@@ -1,6 +1,6 @@
 
 
-<h2>Welcome to my profile</h2>
+<h2>Welcome to my profile!</h2>
 
 <div align="center">
   <a href="https://github.com/lucxsapollo">
