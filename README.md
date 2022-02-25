@@ -1,8 +1,9 @@
 
 
-<h2 align="center">Apollo!</h2>
+<h2 align="center">Apollo</h2>
 
-<p align="center"> Estudante de Analise e Desenvolvimento de Sistema na Universidade Anhanguera, apaixonado por criptomoedas e blockchain. Sempre em busca de aprender sobre tecnologia.<p>
+<p align="center">a favor de descentralização, apaixonado por criptomoedas e blockchain e sigo o pensamento cypherpunk!</p>
+ 
 
 <h3 align="center">Tecnologias e Linguagens</h3>
  <div align="center" valign="top"><br> 
